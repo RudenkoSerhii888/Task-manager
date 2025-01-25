@@ -10,7 +10,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
-    <groupId>ua.kiev.prog.oauth2</groupId>
+    <groupId>ua.programmer.oauth2</groupId>
     <artifactId>login-via-google</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>login-via-google</name>
